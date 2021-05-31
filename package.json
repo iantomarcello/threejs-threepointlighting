@@ -1,0 +1,23 @@
+{
+  "name": "three-threepointlighting",
+  "version": "0.1.0",
+  "description": "A quick three point lighting setup in Three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c rollup.config.js"
+  },
+  "keywords": [],
+  "author": "Ian Yong <ianyys94@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.129.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.2.1",
+    "@types/three": "^0.128.0",
+    "rollup": "^2.50.5",
+    "rollup-plugin-terser": "^7.0.2",
+    "tslib": "^2.2.0",
+    "typescript": "^4.3.2"
+  }
+}
