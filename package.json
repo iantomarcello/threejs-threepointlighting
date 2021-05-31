@@ -1,5 +1,5 @@
 {
-  "name": "three-threepointlighting",
+  "name": "threejs-threepointlighting",
   "version": "0.1.0",
   "description": "A quick three point lighting setup in Three.js",
   "scripts": {
